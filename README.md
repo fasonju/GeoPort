@@ -52,7 +52,7 @@ They've made it harder to enable Developer Mode, but GeoPort handles it with eas
 
 **Passcode Handling**
 <p align="center">
-<img src="https://github.com/fasonju/blob/main/images/passcode.png" alt="passcode" width="50%">
+<img src="https://github.com/fasonju/GeoPort/blob/main/images/passcode.png" alt="passcode" width="50%">
 </p>
 
 
